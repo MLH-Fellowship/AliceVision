@@ -12,7 +12,7 @@
 
 
 // import hnswlib
-#include "dependencies/hnswlib/hnswlib/hnswlib.h"
+#include "src/dependencies/hnswlib/hnswlib/hnswlib.h"
 
 using namespace hnswlib;
 
